@@ -1,6 +1,6 @@
 test-repository
 ===============
 
-Yaaaaay We're runing a repo!
+Yaaaaay We're ruining a repo!
 
 asdfasdfasdfsdf
