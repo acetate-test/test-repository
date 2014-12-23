@@ -1,5 +1,5 @@
 test-repository
 ===============
 
-Yaaaaay We're ~testing~ making merge conflicts!
+Yaaaaay We're runing a repo!
 
